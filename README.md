@@ -1,4 +1,5 @@
 # The Data Engineering Handbook
+<a href="https://trendshift.io/repositories/8755" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8755" alt="DataExpert-io%2Fdata-engineer-handbook | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 This repo has all the resources you need to become an amazing data engineer!
 
@@ -33,7 +34,7 @@ Top 3 must read books are:
 Top must-join communities for DE:
 - [DataExpert.io Community Discord](https://discord.gg/JGumAXncAK)
 - [Data Talks Club Slack](https://datatalks.club/slack)
-- [Data Engineer Things Community](https://www.dataengineerthings.org/aboutus/)
+- [Data Engineer Things Community](https://dataengineerthings.slack.com/join/shared_invite/zt-34mqkmrxs-59yWxQRruwq5_h~7PKRFuQ#/shared-invite/email)
 
 Top must-join communities for ML:
 - [AdalFlow Discord](https://discord.com/invite/ezzszrRZvT)
@@ -71,6 +72,7 @@ Top must-join communities for ML:
   - [Soda](https://www.soda.io/)
   - [DQOps](https://dqops.com/)
   - [HEDDA.IO](https://hedda.io)
+  - [Dingo](https://github.com/MigoXLab/dingo)
 - Education Companies
   - [DataExpert.io](https://www.dataexpert.io)
   - [LearnDataEngineering.com](https://www.learndataengineering.com)
@@ -115,6 +117,8 @@ Top must-join communities for ML:
   - [Responsive](https://www.responsive.dev/)
   - [RisingWave](https://risingwave.com/)
   - [Striim](https://www.striim.com/)
+- Data Lineage
+  - [OpenLineage](https://openlineage.io/)
 
 
 ### Data Engineering blogs of companies:
@@ -180,6 +184,7 @@ Here's the mostly comprehensive list of data engineering creators:
 | Mehdi Ouazza              | [Mehdio DataTV](https://www.youtube.com/@mehdio)                                                    | 3,000+         |
 | Alex Merced                | [Alex Merced Data](https://www.youtube.com/@alexmerceddata_)                                            | N/A           |
 | John Kutay                 | [John Kutay](https://www.youtube.com/@striiminc) | N/A           |
+| Emil Kaminski              | [Databricks For Professionals](https://www.youtube.com/@DatabricksPro)                           | 5,000+          |
 
 
 #### LinkedIn
@@ -218,6 +223,7 @@ Here's the mostly comprehensive list of data engineering creators:
 | Lakshmi Sontenam         | [Lakshmi Sontenam](https://www.linkedin.com/in/shivaga9esh)                                      | 9,500+         |
 | Soumil Shah              | [Soumil Shah](https://www.linkedin.com/in/shah-soumil/)                                          | 8,000+         |
 | Arnaud Milleker          | [Arnaud Milleker](https://www.linkedin.com/in/arnaudmilleker/)                                    | 7,000+         |
+| Dimitri Visnadi          | [Dimitri Visnadi](https://www.linkedin.com/in/visnadi/)                                    | 7,000+         |
 | Lenny                    | [Lenny A](https://www.linkedin.com/in/lennyardiles/)                                         | 6,000+         |
 | Dipankar Mazumdar        | [Dipankar Mazumdar](https://www.linkedin.com/in/dipankar-mazumdar/)                                 | 5,000+         |
 | Daniel Ciocirlan         | [Daniel Ciocirlan](https://www.linkedin.com/in/danielciocirlan)                                    | 5,000+         |
@@ -229,6 +235,8 @@ Here's the mostly comprehensive list of data engineering creators:
 | Hassaan Akbar            | [Hassaan Akbar](https://www.linkedin.com/in/ehassaan)                                              | 5,000+         |
 | Subhankar                | [Subhankar](https://www.linkedin.com/in/subhankarumass/)                                            | 5,000+         |
 | Nitin                    | [Nitin](https://www.linkedin.com/in/tomernitin29/)                                                        | N/A           |
+| Hassaan                    | [Hassaan](https://www.linkedin.com/in/shassaan/)                                                        | 5000+           |
+| Javier de la Torre             | [Javier](www.linkedin.com/in/javier-de-la-torre-medina)                                                        | 5000+           |
 
 
 #### X/Twitter
