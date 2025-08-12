@@ -34,7 +34,7 @@ Top 3 must read books are:
 Top must-join communities for DE:
 - [DataExpert.io Community Discord](https://discord.gg/JGumAXncAK)
 - [Data Talks Club Slack](https://datatalks.club/slack)
-- [Data Engineer Things Community](https://dataengineerthings.slack.com/join/shared_invite/zt-34mqkmrxs-59yWxQRruwq5_h~7PKRFuQ#/shared-invite/email)
+- [Data Engineer Things Community](https://www.dataengineerthings.org/)
 
 Top must-join communities for ML:
 - [AdalFlow Discord](https://discord.com/invite/ezzszrRZvT)
@@ -59,6 +59,9 @@ Top must-join communities for ML:
   - [Delta Lake](https://delta.io/)
   - [Ilum](https://ilum.cloud/)
   - [DuckLake](https://ducklake.select/)
+  - [Apache Iceberg](https://iceberg.apache.org/)
+  - [Apache Polaris](https://polaris.apache.org/)
+  - [Lakekeeper](https://lakekeeper.io/)
 - Data Warehouse
   - [Snowflake](https://www.snowflake.com/en/)
   - [Firebolt](https://www.firebolt.io/)
@@ -98,6 +101,7 @@ Top must-join communities for ML:
   - [dlt](https://dlthub.com/)
   - [Sling](https://slingdata.io/)
   - [Meltano](https://meltano.com/)
+  - [Estuary](https://estuary.dev/)
 - Semantic Layers
   - [Cube](https://cube.dev)
   - [dbt Semantic Layer](https://www.getdbt.com/product/semantic-layer) 
@@ -134,6 +138,7 @@ Top must-join communities for ML:
 - [Oracle](https://blogs.oracle.com/datawarehousing/)
 - [Meta](https://engineering.fb.com/category/data-infrastructure/)
 - [Onehouse](https://www.onehouse.ai/blog)
+- [Estuary Blog](https://estuary.dev/blog/)
 
 ### Data Engineering Whitepapers:
 
@@ -223,6 +228,7 @@ Here's the mostly comprehensive list of data engineering creators:
 | Simon Späti              | [Simon Späti](https://www.linkedin.com/in/sspaeti/)                                            | 10,000+        |
 | Constantin Lungu         | [Constantin Lungu](https://www.linkedin.com/in/constantin-lungu-668b8756)                         | 10,000+        |
 | Lakshmi Sontenam         | [Lakshmi Sontenam](https://www.linkedin.com/in/shivaga9esh)                                      | 9,500+         |
+| Dani Pálma               | [Daniel Pálma](https://www.linkedin.com/in/danthelion/)                                          | 9,000+         |
 | Soumil Shah              | [Soumil Shah](https://www.linkedin.com/in/shah-soumil/)                                          | 8,000+         |
 | Arnaud Milleker          | [Arnaud Milleker](https://www.linkedin.com/in/arnaudmilleker/)                                    | 7,000+         |
 | Dimitri Visnadi          | [Dimitri Visnadi](https://www.linkedin.com/in/visnadi/)                                    | 7,000+         |
@@ -305,6 +311,7 @@ Top must follow newsletters for data engineering:
 - [Joe Reis](https://joereis.substack.com)
 - [Start Data Engineering](https://www.startdataengineering.com)
 - [Data Engineering Weekly](https://www.dataengineeringweekly.com)
+- [Data Engineer Things](https://dataengineerthings.substack.com/)
 
 ### Glossaries:
 - [Data Engineering Vault](https://www.ssp.sh/brain/data-engineering/)
